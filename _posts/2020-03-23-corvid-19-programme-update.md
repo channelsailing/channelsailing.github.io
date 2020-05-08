@@ -10,7 +10,7 @@ published: true
 post_date: 2020-03-23 23:05:51
 ---
 <!-- wp:paragraph -->
-<p>In response to Corvid-19 all CSD events including charters are cancelled until the end of April, with a review in mid-April. The summer cruise will be reviewed at the same time with the likelihood it will be reorganised around South Coast ports, all participants will have the option to cancel or wait and see how it replans.<br>Full refunds (excluding travel costs) will be given for all cancellations based on Government advice/order. </p>
+<p>In response to Corvid-19 all CSD events including charters are cancelled.   When the situation changes  the programme will be reviewed.  <br>Full refunds (excluding travel costs) will be given for all cancellations based on Government advice/order. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
