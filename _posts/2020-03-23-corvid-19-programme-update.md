@@ -16,3 +16,7 @@ post_date: 2020-03-23 23:05:51
 <!-- wp:paragraph -->
 <p>The Sailing Programme has been updated to reflect cancellations received to date. </p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2698,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://channelsailing.org/wp-content/uploads/2020/05/image-1024x506.png" alt="" class="wp-image-2698"/></figure>
+<!-- /wp:image -->
