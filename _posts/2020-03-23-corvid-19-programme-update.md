@@ -1,6 +1,6 @@
 ---
 ID: 2692
-post_title: 'Corvid-19 &#038; Programme Update'
+post_title: 'Covid-19 &#038; Programme Update'
 author: jsavage
 post_excerpt: ""
 layout: post
@@ -10,7 +10,7 @@ published: true
 post_date: 2020-03-23 23:05:51
 ---
 <!-- wp:paragraph -->
-<p>In response to Corvid-19 all CSD events including charters are cancelled.   When the situation changes  the programme will be reviewed.  <br>Full refunds (excluding travel costs) will be given for all cancellations based on Government advice/order. </p>
+<p>In response to Covid-19 all CSD events including charters are cancelled.   When the situation changes  the programme will be reviewed.  <br>Full refunds (excluding travel costs) will be given for all cancellations based on Government advice/order. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
