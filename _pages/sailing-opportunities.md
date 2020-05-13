@@ -11,8 +11,8 @@ post_date: 2016-01-05 09:30:49
 ---
 <p>The Sailing Programme for Sea Essay shows the scheduled dates for Training, Sea Time, Day sails and Charters as well as skipper familiarization and maintenance activities.</p>
 <h3>The most recent version of the Sailing Programme:</h3>
-<p>Hint - Click the image below or use the hyperlink<br /><a href="https://channelsailing.org/wp-content/uploads/2020/05/CSD-2020-Programme-8-May-2020.png"><img class="alignnone wp-image-840 size-full" src="https://channelsailing.org/wp-content/uploads/2015/12/2016-programme-e1452621698306.png" alt="2020 Programme" width="200" height="100" /></a></p>
-<p><a href="https://channelsailing.org/wp-content/uploads/2020/05/CSD-2020-Programme-8-May-2020.png">CSD Sail Prog 2020 - last updated 8 May  2020</a></p>
+<p>Hint - Click the image below or use the hyperlink<br /><a href="https://channelsailing.org/wp-content/uploads/2020/05/CSD-2020-Sailing-Programme-24Apr20.pdf"><img class="alignnone wp-image-840 size-full" src="https://channelsailing.org/wp-content/uploads/2015/12/2016-programme-e1452621698306.png" alt="2020 Programme" width="200" height="100" /></a></p>
+<p><a href="https://channelsailing.org/wp-content/uploads/2020/05/CSD-2020-Sailing-Programme-24Apr20.pdf">CSD Sail Prog 2020 - last updated 13 May  2020</a></p>
 <p>Note. All on water training events start at 1800 hrs on the day before the start date for the event on the calendar.</p>
 <ul>
 <li>So if a training course or Sea Time is scheduled to run on the Monday, Tuesday and Wednesday then the start time would be 1800 hrs on Sunday.</li>
