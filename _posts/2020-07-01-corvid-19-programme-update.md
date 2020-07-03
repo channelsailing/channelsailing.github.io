@@ -10,7 +10,11 @@ published: true
 post_date: 2020-07-01 23:05:51
 ---
 <!-- wp:paragraph -->
-<p>In response to Covid-19 all CSD events including charters are cancelled.   When the situation changes  the programme will be reviewed.  <br>Full refunds (excluding travel costs) will be given for all cancellations based on Government advice/order. </p>
+<p>Covid-19 all CSD events remain cancelled.   When the situation changes this website will be updated and the programme will be reviewed.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>Full refunds (excluding travel costs) will be given for all cancellations based on Government advice/order. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
