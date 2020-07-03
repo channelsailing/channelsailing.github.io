@@ -5,9 +5,9 @@ author: jsavage
 post_excerpt: ""
 layout: post
 permalink: >
-  https://channelsailing.org/2019/12/18/wanted-photos-and-video/
+  https://channelsailing.org/2020/07/01/wanted-photos-and-video/
 published: true
-post_date: 2019-12-18 00:58:06
+post_date: 2020-07-01 00:58:06
 ---
 <!-- wp:paragraph -->
 <p>I am always looking for new material and photos for the website.  Especially valuable are any comments or longer reports on sailing events you have been on.  </p>
