@@ -5,9 +5,9 @@ author: jsavage
 post_excerpt: ""
 layout: post
 permalink: >
-  https://channelsailing.org/2020/03/23/corvid-19-programme-update/
+  https://channelsailing.org/2020/07/01/corvid-19-programme-update/
 published: true
-post_date: 2020-03-23 23:05:51
+post_date: 2020-07-01 23:05:51
 ---
 <!-- wp:paragraph -->
 <p>In response to Covid-19 all CSD events including charters are cancelled.   When the situation changes  the programme will be reviewed.  <br>Full refunds (excluding travel costs) will be given for all cancellations based on Government advice/order. </p>
