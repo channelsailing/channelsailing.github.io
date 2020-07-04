@@ -32,6 +32,7 @@ If you have sailed on a cruising yacht before and want to do more:
 </ul>
 If you are already a skipper:
 <ul>
- 	<li>See <a href="http://cs-sailing.org.uk/skippers/">Becoming a CSSA Approved Skipper</a></li>
+ 	<li><a href="http://cs-sailing.org.uk/skippers/">Becoming a CSSA Approved Skipper</a></li>
+ 	<li>For new joiners with significant experience <a href="https://channelsailing.org/skippers-newsletters/csd-fast-track-process/">CSD Fast Track Process </a></li>
  	<li><a href="//channelsailing.org/charters/">How do I go about chartering Sea Essay? </a></li>
 </ul>
