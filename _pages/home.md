@@ -23,7 +23,7 @@ post_date: 2015-11-25 09:25:15
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p> To find out more <a href="https://channelsailing.org/home/about/">about CSD</a>, how you could enjoy a <a href="http://Day Sail">taster day</a>, learn to sail or even charter Sea Essay please start by exploring the 'About' menu above to navigate your way around this website. </p>
+<p>To find out more <a href="https://channelsailing.org/home/about/">about CSD</a>, how you could enjoy a <a href="http://Day Sail">taster day</a>, learn to sail or even charter Sea Essay please start by exploring the above menu to navigate your way around this website. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
