@@ -25,6 +25,6 @@ If you have sailed on a cruising yacht before and want to do more:
 </ul>
 If you are already a skipper:
 <ul>
- 	<li>How do I become a CSSA Approved Skipper?</li>
+ 	<li>How do I become a CSSA Approved Skipper?  A. See http://cs-sailing.org.uk/skippers/</li>
  	<li><a href="//channelsailing.org/charters/">How do I go about chartering Sea Essay? </a></li>
 </ul>
