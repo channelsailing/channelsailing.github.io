@@ -12,8 +12,8 @@ post_date: 2018-04-09 21:23:12
 <h2>Who we are</h2>
 This website belongs to Channel Sailing Division (CSD) which in turn is part of the <a href="http://cs-sailing.org.uk/">Civil Service Sailing Association</a> (CSSA) which in turn is part of <a href="https://www.cssc.co.uk/">CSSC Sports and Leisure</a>(CSSC). See also <a href="https://www.cssc.co.uk/privacy/">CSSC Privacy Policy</a>.
 
-Our website address is: <a href="//channelsailing.org">//channelsailing.org</a>.
-<h2>What personal data we collect and why we collect it</h2>
+Our website address is: <a href="//channelsailing.org">channelsailing.org</a>.
+<h2>Personal data: What we collect and why</h2>
 <h3>Comments</h3>
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
