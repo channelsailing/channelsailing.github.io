@@ -12,7 +12,6 @@ post_date: 2015-11-25 09:25:15
 <p style="line-height: 1.5em;"><span style="line-height: 1.5em;">Channel Sailing Division (CSD) is one of several clubs in the <a href="http://www.cs-sailing.org/" target="_blank" rel="noopener noreferrer">Civil Service Sailing Association</a> (CSSA) which in turn is part of <a href="http://www.cssc.co.uk/" target="_blank" rel="noopener noreferrer">Civil Service Sports and Leisure (CSSC).</a> </span></p>
 <div style="float: Right; width: 70%; padding: 1px;">[smartslider3 slider=4]</div>
 <p style="line-height: 1.5em;"><span style="line-height: 1.5em;">CSD has</span> a modern sea-going yacht called  <a href="//channelsailing.org/seaessay-2/">Sea Essay</a> based at <a title="Mercury Yacht Harbour" href="https://channelsailing.wordpress.com/home-2/mercury-yacht-harbour/" target="_blank" rel="noopener noreferrer">Mercury Yacht Harbour</a> on the River Hamble near Southampton with direct access to the Solent and English Channel.</p>
-<h5> </h5>
 
 <!-- wp:paragraph -->
 <p></p>
