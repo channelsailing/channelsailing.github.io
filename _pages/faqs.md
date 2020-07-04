@@ -20,7 +20,14 @@ If you have sailed on a cruising yacht before and want to do more:
 <ul>
  	<li><a href="//channelsailing.org/training/">What training courses do you run and how do I book onto one?</a></li>
  	<li><a href="//channelsailing.org/home-2/about/csd1-2-1/">Where else can I find advice, guidance and support?</a></li>
- 	<li>How do I gain sailing experience?</li>
+ 	<li>How do I gain sailing experience?
+<ul>
+ 	<li>Sea Time provides opportunities to consolidate training and practice skills</li>
+ 	<li>The Crew Bureau may be able to match you with a skipper needing crew</li>
+ 	<li>Other clubs may offer other opportunities that complement what CSD offers</li>
+ 	<li>Once approved as a Skipper, charters provide opportunities to gain further experience</li>
+</ul>
+</li>
  	<li><a href="//channelsailing.org/sea-time-cruises/">How do I register for Sea Time?</a></li>
 </ul>
 If you are already a skipper:
