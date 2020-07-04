@@ -5,7 +5,7 @@ author: jsavage
 post_excerpt: ""
 layout: page
 permalink: >
-  https://channelsailing.org/links/sailing-skills/
+  https://channelsailing.org/links/sailinskills/
 published: true
 post_date: 2020-07-04 23:21:23
 ---
