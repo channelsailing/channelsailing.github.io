@@ -10,7 +10,15 @@ published: true
 post_date: 2020-07-01 00:58:06
 ---
 <!-- wp:paragraph -->
-<p>I am always looking for new material and photos for the website.  Especially valuable are any comments or longer reports on sailing events you have been on.  </p>
+<p>We are always looking for new material and photos for the website.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Were you one of the lucky ones who managed a sail before lockdown?  Do you have any photos?   </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Did you sail on Sea Essay in previous years?  If so, please do share any photos or video or written reports / comments on events you have been on.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
