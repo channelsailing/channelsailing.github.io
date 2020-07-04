@@ -14,7 +14,7 @@ post_date: 2015-11-25 09:25:15
 <p style="line-height: 1.5em;"><span style="line-height: 1.5em;">CSD has</span>&nbsp;a modern sea-going yacht called&nbsp;&nbsp;<a href="//channelsailing.org/seaessay-2/">Sea Essay</a>&nbsp;based at&nbsp;<a title="Mercury Yacht Harbour" href="https://channelsailing.wordpress.com/home-2/mercury-yacht-harbour/" target="_blank" rel="noopener noreferrer">Mercury Yacht Harbour</a>&nbsp;on the&nbsp;River Hamble near Southampton&nbsp;with direct access to the Solent and English Channel.</p>
 
 <!-- wp:paragraph -->
-<p> <a href="https://channelsailing.org/home/about/">CSD</a> offers <a href="http://day%20sail/">taster days</a>, opportunities to learn to sail and even charter Sea Essay.  Explore the above menu to navigate your way around this website.  </p>
+<p><a href="https://channelsailing.org/home/about/">CSD</a> offers <a href="http://day%20sail/">taster days</a>, opportunities to learn to sail and even charter Sea Essay.  Explore the above menu to navigate your way around this website.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
