@@ -10,7 +10,7 @@ published: true
 post_date: 2020-07-04 23:21:23
 ---
 <!-- wp:paragraph -->
-<p>A small collection of articles on key sailing related skills</p>
+<p>A small collection of links to articles on key sailing related skills on external websites:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
