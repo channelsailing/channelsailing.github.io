@@ -1,6 +1,6 @@
 ---
 ID: 2496
-post_title: 'Protected: CSSA Approved Skippers List'
+post_title: 'Protected: Protected: CSSA Approved Skippers List'
 author: jsavage
 post_excerpt: ""
 layout: page

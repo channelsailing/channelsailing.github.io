@@ -17,5 +17,5 @@ The following external links will take you to the websites for several related o
  	<li><a title="The East Coast Yacht Division is a division of the CSSA" href="http://www.ecyd.org.uk/">CSSA – ECYD</a></li>
  	<li><a title="The Portsmouth Offshore Group is a division of the CSSA" href="https://pog-cssa.co.uk/">CSSA – POG</a></li>
  	<li><a title="Civil Service Sports and Leisure" href="https://www.cssc.co.uk/">CSSC</a></li>
- 	<li><a title="The Royal Yachting Association" href="https://www.rya.org.uk/" target="_blank" rel="noopener">RYA</a></li>
+ 	<li><a title="The Royal Yachting Association" href="https://www.rya.org.uk/" target="_blank" rel="noopener noreferrer">RYA</a></li>
 </ul>

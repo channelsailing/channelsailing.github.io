@@ -10,19 +10,19 @@ published: true
 post_date: 2018-03-06 11:46:25
 ---
 <!-- wp:paragraph -->
-<p>Sea Essay is maintained by a small group of volunteer club members under the leadership of  the Yacht Husband. </p>
+<p>Sea Essay is maintained by a small group of volunteer club members under the leadership of&nbsp; the Yacht Husband.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":33.33} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph -->
-<p>  The Yacht Husband Team perform routine maintenance on the scheduled monthly maintenance days and during the long winter lay up as well as urgent repairs as required.  </p>
+<p>The Yacht Husband Team perform routine maintenance on the scheduled monthly maintenance days and during the long winter lay up as well as urgent repairs as required.&nbsp; </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":66.66} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph -->
-<p>  [smartslider3 slider="1"]  </p>
+<p>  [smartslider3 slider=1]  </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

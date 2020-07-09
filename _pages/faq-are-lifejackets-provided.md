@@ -11,4 +11,4 @@ post_date: 2018-05-01 13:40:08
 ---
 Yes
 
-All safety equipment is provided including lifejackets and safety lines for all crew.  You are responsible for inspecting your allocated lifejacket and safety line before use.  Please ask your skipper for help if you are not sure how to check these items.
+All safety equipment is provided including lifejackets and safety lines for all crew.&nbsp; You are responsible for inspecting your allocated lifejacket and safety line before use.&nbsp; Please ask your skipper for help if you are not sure how to check these items.

@@ -9,9 +9,9 @@ published: true
 post_date: 2015-11-25 09:25:15
 ---
 <p>[pj-news-ticker]</p>
-<p style="line-height: 1.5em;"><span style="line-height: 1.5em;">Channel Sailing Division (CSD) is one of several clubs in the&nbsp;<a href="http://www.cs-sailing.org/" target="_blank" rel="noopener noreferrer">Civil Service Sailing Association</a> (CSSA) which in turn is part of&nbsp;<a href="http://www.cssc.co.uk/" target="_blank" rel="noopener noreferrer">Civil Service Sports and Leisure (CSSC).</a>&nbsp;</span></p>
+<p style="line-height: 1.5em;"><span style="line-height: 1.5em;">Channel Sailing Division (CSD) is one of several clubs in the <a href="http://www.cs-sailing.org/" target="_blank" rel="noopener noreferrer">Civil Service Sailing Association</a> (CSSA) which in turn is part of <a href="http://www.cssc.co.uk/" target="_blank" rel="noopener noreferrer">Civil Service Sports and Leisure (CSSC).</a> </span></p>
 <div style="float: Right; width: 70%; padding: 1px;">[smartslider3 slider=4]</div>
-<p style="line-height: 1.5em;"><span style="line-height: 1.5em;">CSD has</span>&nbsp;a modern sea-going yacht called&nbsp;&nbsp;<a href="//channelsailing.org/seaessay-2/">Sea Essay</a>&nbsp;based at&nbsp;<a title="Mercury Yacht Harbour" href="https://channelsailing.wordpress.com/home-2/mercury-yacht-harbour/" target="_blank" rel="noopener noreferrer">Mercury Yacht Harbour</a>&nbsp;on the&nbsp;River Hamble near Southampton&nbsp;with direct access to the Solent and English Channel.</p>
+<p style="line-height: 1.5em;"><span style="line-height: 1.5em;">CSD has</span> a modern sea-going yacht called  <a href="//channelsailing.org/seaessay-2/">Sea Essay</a> based at <a title="Mercury Yacht Harbour" href="https://channelsailing.wordpress.com/home-2/mercury-yacht-harbour/" target="_blank" rel="noopener noreferrer">Mercury Yacht Harbour</a> on the River Hamble near Southampton with direct access to the Solent and English Channel.</p>
 
 <!-- wp:paragraph -->
 <p><a href="https://channelsailing.org/home/about/">CSD</a> offers <a href="http://day%20sail/">taster days</a>, opportunities to learn to sail and even charter Sea Essay.  Explore the above menu to navigate your way around this website.  </p>

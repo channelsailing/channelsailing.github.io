@@ -18,6 +18,6 @@ Find out about <a href="//channelsailing.org/membership/">membership</a>.
 <h4>Becoming an Approved Skipper</h4>
 To become an approved skipper, a member must possess a full RYA/MCA Yachtmaster Coastal or Yachtmaster Offshore Certificate of Competence, an SRC Certificate and a currently valid, RYA approved, First Aid Certificate. In addition they should submit the contact details for two CSSA Approved Skippers at equivalent or higher standard that that applied for with whom they have sailed and who have agreed to act as referees.
 
-Further information on Approved Skippers and the application process may be found on <a href="http://cs-sailing.org.uk/membership/" target="_blank" rel="noopener">the cs-sailing.org.uk website</a>
+Further information on Approved Skippers and the application process may be found on <a href="http://cs-sailing.org.uk/membership/" target="_blank" rel="noopener noreferrer">the cs-sailing.org.uk website</a>
 
 &nbsp;

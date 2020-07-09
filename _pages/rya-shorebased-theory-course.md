@@ -1,6 +1,6 @@
 ---
 ID: 2556
-post_title: 'Protected: RYA Shorebased Theory Course'
+post_title: 'Protected: Protected: RYA Shorebased Theory Course'
 author: jsavage
 post_excerpt: ""
 layout: page

@@ -10,7 +10,7 @@ published: true
 post_date: 2020-07-04 01:18:17
 ---
 <!-- wp:paragraph -->
-<p>This is a shameless plug for our  <a href="https://www.facebook.com/groups/529728773848746/">Facebook Group</a>.  As of today, we have 177 members and it has been quietly  growing during lockdown.  </p>
+<p>This is a shameless plug for our &nbsp;<a href="https://www.facebook.com/groups/529728773848746/">Facebook Group</a>.  As of today, we have 177 members and it has been quietly  growing during lockdown.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
